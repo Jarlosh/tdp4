@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c8837548ca04931b97e6bbd2dde1e7e, type: 3}
+  m_Name: d1s1
+  m_EditorClassIdentifier: 
+  <Active>k__BackingField: 0
+  <Restrictions>k__BackingField:
+  - {fileID: 11400000, guid: c1665d97a12c676468cfbbcf7c46b1de, type: 2}
+  - {fileID: 11400000, guid: a0a3a32c67be34346b7a64568e920807, type: 2}
+  <ReverseRestrictions>k__BackingField: []
+  <Character>k__BackingField: {fileID: 11400000, guid: b89e9b78c5b07c444bb70e9f1584f1ac, type: 2}
+  <Text>k__BackingField: "\u041C\u0430\u043B\u043E\u0439, \u043F\u043E\u0441\u043B\u0443\u0448\u0430\u0439.
+    \u0422\u044B \u043E\u0431\u044F\u0437\u0430\u043D \u0432\u0441\u0435 \u0438\u0441\u043F\u0440\u0430\u0432\u0438\u0442\u044C!
+    \u041D\u0430\u043C \u0447\u0435\u0440\u0435\u0437 \u0447\u0430\u0441 \u043D\u0443\u0436\u043D\u043E
+    \u0437\u0430\u043B\u0438\u0442\u044C \u0431\u0438\u043B\u0434. "
+  <TimeMoment>k__BackingField: -1

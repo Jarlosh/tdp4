@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{896aab63-4d70-4196-b2be-ad6fe673f3c2}">
+		<property name="assetPath">
+			<value>sfx/terras_guy/Terras_guy_03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.6970068027210885</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8728f874-6ca3-4778-8a6d-25a4416417cf}</destination>
+		</relationship>
+	</object>
+</objects>

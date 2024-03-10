@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c7aef649-5769-4b46-9844-1642b6a296c6}">
+		<property name="assetPath">
+			<value>Plastic, Impact, Plastic Object, Dropping On Floor, Rolls SND4176.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.74920833333333337</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8728f874-6ca3-4778-8a6d-25a4416417cf}</destination>
+		</relationship>
+	</object>
+</objects>

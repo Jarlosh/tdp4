@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c8837548ca04931b97e6bbd2dde1e7e, type: 3}
+  m_Name: d1s4
+  m_EditorClassIdentifier: 
+  <Restrictions>k__BackingField:
+  - {fileID: 11400000, guid: 7e1f3f1e1396dac45bd8dbc855cc9c80, type: 2}
+  <ReverseRestrictions>k__BackingField: []
+  <Character>k__BackingField: {fileID: 11400000, guid: b89e9b78c5b07c444bb70e9f1584f1ac, type: 2}
+  <Text>k__BackingField: "\u0414\u0430. \u041D\u0430\u0439\u0434\u0438 \u0435\u0433\u043E,
+    \u043C\u0430\u043B\u043E\u0439! \u0422\u044B \u0432\u0441\u0435 \u043F\u043E\u0439\u043C\u0435\u0448\u044C
+    \u043A\u043E\u0433\u0434\u0430 \u043D\u0430\u0439\u0434\u0435\u0448\u044C \u0435\u0433\u043E!"
+  <TimeMoment>k__BackingField: -1

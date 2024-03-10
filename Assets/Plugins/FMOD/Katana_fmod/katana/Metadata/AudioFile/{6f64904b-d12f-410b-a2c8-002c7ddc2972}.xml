@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{6f64904b-d12f-410b-a2c8-002c7ddc2972}">
+		<property name="assetPath">
+			<value>Mechanical, Switch, Big Lever, Spotlight, Long Reverb SND11723.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.4661666666666671</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8728f874-6ca3-4778-8a6d-25a4416417cf}</destination>
+		</relationship>
+	</object>
+</objects>

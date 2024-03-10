@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12812fecede7453fad4d858148d0fd5a, type: 3}
+  m_Name: Sanya_1_1_Repeat
+  m_EditorClassIdentifier: 
+  <Active>k__BackingField: 0
+  <Restrictions>k__BackingField:
+    <TimeMoment>k__BackingField: -1
+    keys:
+    - {fileID: 11400000, guid: f108a79ede85639438ade0e4cf05bc0a, type: 2}
+    notKeys: []
+  <Items>k__BackingField:
+  - <Settings>k__BackingField:
+      <Strategy>k__BackingField: 0
+      <SoundEvent>k__BackingField:
+        Guid:
+          Data1: 0
+          Data2: 0
+          Data3: 0
+          Data4: 0
+        Path: 
+      <SilenceVoice>k__BackingField: 0
+    <Character>k__BackingField: {fileID: 11400000, guid: dd313c8e466947d44a4a298695f2dc72, type: 2}
+    <Text>k__BackingField: "*\u0431\u043B\u044E\u0435\u0442, \u0437\u0430\u043B\u0438\u0432\u0430\u044F
+      \u043F\u043E\u043B \u0432\u043E\u043A\u0440\u0443\u0433*"
+  - <Settings>k__BackingField:
+      <Strategy>k__BackingField: 0
+      <SoundEvent>k__BackingField:
+        Guid:
+          Data1: 0
+          Data2: 0
+          Data3: 0
+          Data4: 0
+        Path: 
+      <SilenceVoice>k__BackingField: 0
+    <Character>k__BackingField: {fileID: 11400000, guid: dd313c8e466947d44a4a298695f2dc72, type: 2}
+    <Text>k__BackingField: "\u0421\u0440\u0430\u043D\u0430\u044F \u0442\u0443\u0445\u043B\u0430\u044F
+      \u0441\u0435\u043B\u0435\u0434\u043A\u0430!"
+  - <Settings>k__BackingField:
+      <Strategy>k__BackingField: 0
+      <SoundEvent>k__BackingField:
+        Guid:
+          Data1: 0
+          Data2: 0
+          Data3: 0
+          Data4: 0
+        Path: 
+      <SilenceVoice>k__BackingField: 0
+    <Character>k__BackingField: {fileID: 11400000, guid: 272f0816ef11dc04293df5c95314e8e5, type: 2}
+    <Text>k__BackingField: "\u042D\u0445, \u0421\u0430\u043D\u044F\u2026 \u0423\u0431\u0435\u0440\u0443-\u043A\u0430
+      \u044F \u0441\u0435\u043B\u0451\u0434\u043A\u0443 \u0432 \u0445\u043E\u043B\u043E\u0434\u043E\u0441."
+  - <Settings>k__BackingField:
+      <Strategy>k__BackingField: 0
+      <SoundEvent>k__BackingField:
+        Guid:
+          Data1: 0
+          Data2: 0
+          Data3: 0
+          Data4: 0
+        Path: 
+      <SilenceVoice>k__BackingField: 0
+    <Character>k__BackingField: {fileID: 11400000, guid: dd313c8e466947d44a4a298695f2dc72, type: 2}
+    <Text>k__BackingField: "*\u0431\u043B\u044E\u0435\u0442, \u043D\u0430\u0432\u0430\u043B\u0438\u0432\u0430\u044F
+      \u0437\u0430 \u0432\u043E\u0440\u043E\u0442*"

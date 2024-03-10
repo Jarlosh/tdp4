@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12812fecede7453fad4d858148d0fd5a, type: 3}
+  m_Name: Sanya_1_0_Early
+  m_EditorClassIdentifier: 
+  <Active>k__BackingField: 0
+  <Restrictions>k__BackingField:
+    <TimeMoment>k__BackingField: -1
+    keys:
+    - {fileID: 11400000, guid: f108a79ede85639438ade0e4cf05bc0a, type: 2}
+    notKeys: []
+  <Items>k__BackingField:
+  - <Settings>k__BackingField:
+      <Strategy>k__BackingField: 2
+      <SoundEvent>k__BackingField:
+        Guid:
+          Data1: -1799391804
+          Data2: 1238281607
+          Data3: 1856777354
+          Data4: -78352436
+        Path: event:/SFX/Puke
+      <SilenceVoice>k__BackingField: 1
+    <Character>k__BackingField: {fileID: 11400000, guid: dd313c8e466947d44a4a298695f2dc72, type: 2}
+    <Text>k__BackingField: "*\u0440\u0430\u0441\u043A\u0430\u0442\u0438\u0441\u0442\u043E
+      \u0431\u043B\u044E\u0451\u0442*"

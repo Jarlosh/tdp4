@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c8837548ca04931b97e6bbd2dde1e7e, type: 3}
+  m_Name: d9s2
+  m_EditorClassIdentifier: 
+  <Restrictions>k__BackingField:
+  - {fileID: 11400000, guid: 727f3920d76c6c94fa8e21af7ca6d67a, type: 2}
+  <ReverseRestrictions>k__BackingField: []
+  <Character>k__BackingField: {fileID: 11400000, guid: c9022387ba3ea3c4f99d996c2f683f9b, type: 2}
+  <Text>k__BackingField: "\u0427\u0443\u0442\u044C \u043F\u043E\u0437\u0436\u0435.
+    \u042F \u0438\u0449\u0443 \u043F\u0430\u0440\u043E\u043B\u044C \u043E\u0442 \u043A\u043E\u043C\u043F\u0430.
+    \u0422\u044B \u0435\u0433\u043E \u0437\u043D\u0430\u0435\u0448\u044C?"
+  <TimeMoment>k__BackingField: -1
